@@ -1,0 +1,77 @@
+#header img{ 
+    width: 35px;
+}
+#manin .carousel-inner img{
+    max-height: 70vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+#carousel {
+    position: relative;
+}
+#carousel .overlay{
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+}
+#carousel .overlay .container,.row{
+    height: 100%;
+}
+#sintomas{
+    margin-left: 5px;
+    margin-right: 5px;
+    color:rgb(0, 123, 255);
+}
+#sintomas img{
+    max-height: 200px;
+    height: 200px;
+    width: 100%;
+     left: 130px;
+     right: 130px;
+     object-fit: cover;
+}
+#img-alergias{
+    height: 200px;
+}
+ #medidas_preventivas{
+    margin-top: 20px;
+    margin-left: 40px;
+    color:rgb(0, 123, 255);
+ }
+ #img-medidas{
+     margin-top: -30px;
+     margin-left: 40px;
+     margin-right: 40px;
+     margin-bottom: 50px;
+ }
+ #educacion{
+    margin-top: 20px;
+    margin-left: 40px;
+    color:rgb(0, 123, 255);
+ }
+ #nav-general{
+     border-top:rgb(0, 123, 255);
+     border-left:rgb(0, 123, 255);
+     border-left:rgb(0, 123, 255);
+ }
+#noticias{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#maestros{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#alumnos{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#padres{
+    margin-left: 10px;
+    margin-right: 10px;
+}
